@@ -1,0 +1,28 @@
+***********************
+TESTING
+ 
+ ErrHandling    OK
+ AIn            Ok
+ AInScan
+ AOut
+ ToEngUnits     OK
+ FromEngUnits   OK
+ DConfigPort    OK
+ DIn            OK
+ DOut           OK
+ GetBoardName	pb!!!!
+ GetConfig      OK
+ SetConfig      OK
+ FlashLED	OK
+
+ DBitIn
+ DBitOut
+  
+ C8254Config
+ CLoad
+ CLoad32
+ CIn 
+ CIn32 
+ CFreqIn
+ C9513Init
+

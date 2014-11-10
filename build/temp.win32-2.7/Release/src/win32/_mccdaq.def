@@ -1,0 +1,3 @@
+LIBRARY _mccdaq.pyd
+EXPORTS
+init_mccdaq

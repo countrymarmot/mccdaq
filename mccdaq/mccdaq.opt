@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<project version="2.0">
+	<options bootfile = ""/>
+	<options runargs = ""/>
+	<options workdir = "C:\Documents and Settings\pdalet\Bureau\mccdaq/"/>
+	<options remotepath = ""/>
+</project>
